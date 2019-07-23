@@ -1,0 +1,31 @@
+*{margin: 0%;padding: 0%;box-sizing: border-box;}
+ul{list-style: none;}
+a{text-decoration: none;}
+body{font-size: 100%;color: #333;text-align: center;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;}
+header{font-family:'Lucida Calligraphy', cursive;
+    padding-top: 1.5rem;background: rgb(245, 243, 243);
+}  
+header span:first-child{font-size: 1.5rem;display: block;margin-left: 3rem;}  
+header span:last-child{font-size: 3rem;color: #ef7a56}
+.visual{}
+.visual img{max-width: 100%;}
+/* .bx-wrapper{border: none !important;} */
+.gretting{}
+.gretting h2 span{color: #ef7a56;}
+.gretting h2{padding: 1rem;}
+.gretting p{color: #ef7a56;}
+.time{background: #ef7a56;margin-top: 1rem;padding: 1rem;color: white;
+    line-height: 2rem;
+}
+.traffic h2{padding: 1rem;}
+.traffic p{line-height: 1.5rem;}
+.bus{margin-top: 1rem;text-align: left;margin-left: 5rem;margin-bottom: 1rem;}
+.bus img{width: 1rem;margin-right: 0.5rem;}
+.fa-subway{color: black;font-size: 1rem;}
+.map{max-width: 100%;}
+.tel{margin-top: 1rem;}
+.tel img{padding: 1rem;}
+footer{background: #ef7a56;}
+footer p{padding: 0.5rem;color: white;}
