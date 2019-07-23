@@ -14,14 +14,21 @@ header span:last-child{font-size: 3rem;color: #ef7a56}
 /* .bx-wrapper{border: none !important;} */
 .gretting{}
 .gretting h2 span{color: #ef7a56;}
-.gretting h2{padding: 1rem;}
+.gretting h2{padding:1rem;}
 .gretting p{color: #ef7a56;}
 .time{background: #ef7a56;margin-top: 1rem;padding: 1rem;color: white;
     line-height: 2rem;
 }
+/* .address{width: 13rem; border-bottom: 2px solid #ef7a56;position: relative;
+    margin-left: 17rem;
+} */
+.traffic{position: relative;}
 .traffic h2{padding: 1rem;}
+.line{width: 4rem; border: 1px solid #ef7a56;position: absolute;left: 50%;
+    top: 28%;transform: translatex(-50%);
+}
 .traffic p{line-height: 1.5rem;}
-.bus{margin-top: 1rem;text-align: left;margin-left: 5rem;margin-bottom: 1rem;}
+.bus{margin-top: 1rem;margin-bottom: 1rem;text-align: left;margin-left: 5rem;}
 .bus img{width: 1rem;margin-right: 0.5rem;}
 .fa-subway{color: black;font-size: 1rem;}
 .map{max-width: 100%;}
